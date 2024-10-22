@@ -1,0 +1,20 @@
+add_s alice
+add_s eve
+add_s bob
+top 3
+add_e e01 1
+add_e e01 0
+grade alice 80 e01
+grade eve 81 e01
+add_s bob
+grade carol 70 e01
+add_s carol
+grade carol 70 e01
+grade carol 75 e01
+average carol
+average alice
+average bob
+add_e e02 0
+grade carol 10 e02
+top 2
+end

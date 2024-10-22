@@ -1,0 +1,28 @@
+add Autorretrato Goya 150
+add Las_meninas Velazquez 90
+add La_metamorfosis Dali 45
+add Fiesta_en_Figueras Dali 45
+sell La_metamorfosis
+add La_venus_del_espejo Velazquez 120
+sell Fiesta_en_Figueras
+best
+oldest 2
+sell Las_meninas
+best
+add Biarritz Sorolla 80
+add El_pie_herido Sorolla 50
+sell Autorretrato
+best
+add La_rendicion_de_Breda Velazquez 130
+add Cosiendo_la_vela Sorolla 70
+add Aquelarre Goya 100
+sell El_pie_herido
+add La_metamorfosis Dali 90
+oldest 10
+sell La_metamorfosis
+best
+end
+add Autorretrato Goya 150
+sell Las_meninas
+best
+end
